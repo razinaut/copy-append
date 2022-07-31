@@ -1,9 +1,9 @@
 # copy-append
-Automator Quick Service for setting up a hotkey to copy a link (**on Safari**) using WICG's Fragment Directive.
+Automator Quick Service for setting up a hotkey to copy a link (**on Safari**) using WICG's Fragment Directive. 
 
-Adding this to Automator allows you to use a set up a hotkey to copy a link while adding `"#:~:text="` and the selected text to the new copied link. 
+Adding this to Automator allows you to set up a hotkey to copy a link while adding `"#:~:text="` and the selected text to the new copied link. If you share this link to anyone else, when the link is opened, the shared link will automatically scroll to the selected text and highlight it. 
 
-For example if you select `this` and use the hotkey set, it'll create a link to `https://github.com/raziyed97/copy-append#:~:text=this`. If you share this link to anyone else, when the link is opened, the shared link will automatically scroll to the selected text and highlight it. 
+For example if you select `this` and use the hotkey set, it'll create a link to `https://github.com/raziyed97/copy-append#:~:text=this`.
 
 ## Install
 
